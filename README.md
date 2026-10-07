@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0046-permutations) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0875-koko-eating-bananas) |
@@ -25,5 +26,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
