@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0094-binary-tree-inorder-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0543-diameter-of-binary-tree) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0102-binary-tree-level-order-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0543-diameter-of-binary-tree) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0102-binary-tree-level-order-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0543-diameter-of-binary-tree) |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Lifting
 |  |
@@ -95,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
