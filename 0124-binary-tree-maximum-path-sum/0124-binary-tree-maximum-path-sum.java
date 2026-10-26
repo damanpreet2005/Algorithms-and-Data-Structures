@@ -14,27 +14,25 @@
  * }
  */
 class Solution {
-    private int maxSum;
+    private int max;
 
     public int maxPathSum(TreeNode root) {
-        maxSum = Integer.MIN_VALUE;
-        calculateMax(root);
-        return maxSum;
+        max = Integer.MIN_VALUE; // Reset global state per test case
+        pathSum(root);
+        return max;
     }
 
-    public int calculateMax(TreeNode root){
-        // base case
-        if (root == null) {
-            return 0;
-        }
+    private int pathSum(TreeNode node) {
+        if (node == null) return 0;
 
-        int left = Math.max( 0, calculateMax(root.left));
-        int right = Math.max( 0, calculateMax(root.right)); // if we get a negetive node we will exclude that subtree path
+        // 1. Recurse down subtrees & clamp negative contributions to 0
+        int left = Math.max(0, pathSum(node.left));
+        int right = Math.max(0, pathSum(node.right));
 
-        int currentMax = left + right + root.val;
+        // 2. Global Max Update: Arch path through node
+        max = Math.max(max, node.val + left + right);
 
-        maxSum = Math.max( maxSum, currentMax );
-
-        return root.val + Math.max( left, right );
+        // 3. Return Single Branch Gain upward
+        return node.val + Math.max(left, right);
     }
 }
