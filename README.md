@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0543-diameter-of-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0102-binary-tree-level-order-traversal) |
+| [1971-find-if-path-exists-in-graph](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/1971-find-if-path-exists-in-graph) |
 ## DP on Trees
 |  |
 | ------- |
@@ -114,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
