@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0046-permutations) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/1971-find-if-path-exists-in-graph) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
