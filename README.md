@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0229-majority-element-ii](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0229-majority-element-ii) |
 | [0875-koko-eating-bananas](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0875-koko-eating-bananas) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1552-magnetic-force-between-two-balls](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/1552-magnetic-force-between-two-balls) |
 ## Binary Search
 |  |
@@ -147,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0229-majority-element-ii) |
+## Math
+|  |
+| ------- |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 <!---LeetCode Topics End-->
