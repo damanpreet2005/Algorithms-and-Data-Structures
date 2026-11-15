@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0079-word-search) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0217-contains-duplicate](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0875-koko-eating-bananas](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0875-koko-eating-bananas) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/1552-magnetic-force-between-two-balls) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0036-valid-sudoku) |
+| [0217-contains-duplicate](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Counting
