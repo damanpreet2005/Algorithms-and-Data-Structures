@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0217-contains-duplicate](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/1552-magnetic-force-between-two-balls) |
 ## Backtracking
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0014-longest-common-prefix](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0079-word-search) |
+| [0242-valid-anagram](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0242-valid-anagram) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Counting
 |  |
