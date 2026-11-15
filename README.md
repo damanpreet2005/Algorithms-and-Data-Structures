@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0036-valid-sudoku) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0036-valid-sudoku) |
 | [0229-majority-element-ii](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0442-find-all-duplicates-in-an-array) |
