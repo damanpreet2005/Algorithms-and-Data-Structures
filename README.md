@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0242-valid-anagram) |
 ## Depth-First Search
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0144-binary-tree-preorder-traversal) |
 ## Tree
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
