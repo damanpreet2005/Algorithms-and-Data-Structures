@@ -175,4 +175,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0424-longest-repeating-character-replacement) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
