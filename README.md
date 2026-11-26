@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0014-longest-common-prefix) |
+| [0031-next-permutation](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0039-combination-sum) |
@@ -183,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/damanpreet2005/Algorithms-and-Data-Structures/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
